@@ -9,4 +9,4 @@ git config --global alias.c "commit"
 git config --global alias.p "push"
 git config --global alias.s "status"
 
-git config --global merge.tool "gedit"
+git config --global core.editor "gedit"
