@@ -17,11 +17,11 @@ Be the first repo I download on a new system that contains:
 * **Q:** Why make this repo?
 * *A:* Easy access to personal developer tools
 
-### Table of Contents
-* configs *
+# Table of Contents
+## configs
 - **configs/terminal_config.sh**: sets bash terminal lines to
                                   \[time\]\{usr\}\(branch\)cwd
 - **configs/git_config.sh**: sets user level gitconfig
 
-* templates *
+## templates
 - **C++**
