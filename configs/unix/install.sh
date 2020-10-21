@@ -1,4 +1,4 @@
 #!/bin/bash
 
-./git_config.sh
-./terminal_config.sh
+./git/config.sh && echo "Installed Git Config"
+./bash/config.sh && echo "Installed Bash Config"
