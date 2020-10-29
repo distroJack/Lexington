@@ -10,3 +10,7 @@ alias cp='cp -i'
 alias ll='ls -lF --color=auto'
 alias la='ls -alF --color=auto'
 alias ls='ls -F'
+
+
+# Add please support (https://meyerweb.com/eric/thoughts/2020/09/29/polite-bash-commands/)
+alias please='sudo "$BASH" -c "$(history -p !!)"'
